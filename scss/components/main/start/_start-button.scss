@@ -1,0 +1,24 @@
+@media screen and (max-width: 375px) {
+  .start-button {
+    background-color: #dd2242;
+
+    width: 315px;
+    height: 59px;
+    border-style: none;
+    position: absolute;
+    top: 308px;
+    align-items: center;
+    left: 30px;
+    border-radius: 107.63px;
+  }
+}
+@media screen and (max-width: 375px) {
+  .start-button-p {
+    color: white;
+    font-family: DM Sans;
+    // width: 134px;
+    // height: 16px;
+    font-size: 18px;
+    text-align: center;
+  }
+}

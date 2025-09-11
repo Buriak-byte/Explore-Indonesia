@@ -1,5 +1,6 @@
-.header {
-  @media (min-width: 375px;) {
-    background-image: url(../../../png/background-first.png);
+@media screen and (max-width: 375px) {
+  .header {
+    position: absolute;
+    top: 48px;
   }
 }

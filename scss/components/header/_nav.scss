@@ -1,0 +1,10 @@
+.nav-ul {
+  display: flex;
+}
+@media screen and (max-width: 375px) {
+  .nav-ul {
+    left: 267px;
+    position: absolute;
+    top: 10px;
+  }
+}
