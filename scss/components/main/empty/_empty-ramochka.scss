@@ -3,7 +3,145 @@
     height: 929px;
     width: 375px;
     margin-top: 695px;
-    background-color: rgba(16, 1, 71, 0, 9);
+    background-color: rgba(16, 1, 71, 0.9);
     opacity: 90%;
+  }
+}
+@media screen and (max-width: 375px) {
+  .ramochka-zag {
+    color: rgb(255, 255, 255);
+    font-family: Roboto;
+    margin-top: 144px;
+    text-align: center;
+  }
+}
+@media screen and (max-width: 375px) {
+  .ramochka-first-ps {
+    color: #939393;
+    text-align: center;
+    margin-top: 129px;
+    font-family: Roboto;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .ramochka-num {
+    color: #dd2242;
+    margin-top: 15px;
+    text-align: center;
+    font-family: Roboto;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .ramochka-ps {
+    text-align: center;
+    color: #939393;
+    margin-top: 5px;
+    font-family: Roboto;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .ramochka-invisible {
+    height: 69px;
+  }
+}
+
+@media screen and (min-width: 1920px) {
+  .empty-ramochka-lap {
+    height: 794px;
+    width: 1920px;
+    background-color: rgba(7, 7, 24, 0.9);
+    position: absolute;
+    top: 4100px;
+  }
+}
+
+@media screen and (min-width: 1920px) {
+  .ramochka-zag-lap {
+    color: white;
+    font-size: 60px;
+    font-family: DM Sans;
+
+    padding-top: 201px;
+    text-align: center;
+    line-height: 150%;
+    letter-spacing: 3px;
+  }
+}
+
+@media screen and (min-width: 1920px) {
+  .ramochka-first-ps-lap- {
+    display: none;
+  }
+}
+@media screen and (min-width: 1920px) {
+  .ramochka-first-ps-lap {
+    text-align: center;
+    color: #939393;
+    margin-top: 36.83px;
+    font-family: DM Sans;
+    line-height: 150%;
+    font-size: 21px;
+  }
+}
+@media screen and (max-width: 375px) {
+  .ramochka-first-ps-lap {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .empty-ul-ramochka-lap {
+    display: none;
+  }
+}
+.none {
+  display: none;
+}
+
+@media screen and (min-width: 1920px) {
+  .empty-ul-ramochka-lap {
+    display: flex;
+  }
+}
+
+@media screen and (min-width: 1920px) {
+  .ramochka-num-lap {
+    color: #dd2242;
+    margin-top: 39px;
+    text-align: center;
+    font-family: DM Sans;
+    font-size: 42.14px;
+    letter-spacing: 0.39px;
+  }
+}
+
+@media screen and (min-width: 1920px) {
+  .empty-ul-ramochka-li-first-lap {
+    margin-left: 322px;
+  }
+}
+
+@media screen and (min-width: 1920px) {
+  .ramochka-ps-lap {
+    color: #939393;
+    text-align: center;
+    line-height: 150%;
+    font-size: 21px;
+    font-family: DM Sans;
+  }
+}
+
+@media screen and (min-width: 1920px) {
+  .empty-ul-ramochka-li-second-lap {
+    margin-left: 127.39px;
+  }
+}
+
+@media screen and (min-width: 1920px) {
+  .empty-ul-ramochka-li-third-lap {
+    margin-left: 91.39px;
   }
 }

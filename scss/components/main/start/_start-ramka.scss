@@ -69,3 +69,73 @@
     margin-top: 30px;
   }
 }
+
+@media screen and (min-width: 1920px) {
+  .start-ramka-lap {
+    background-color: rgba(0, 0, 0, 0.6);
+    width: 1225px;
+    height: 210px;
+    position: absolute;
+    top: 870px;
+    left: 277px;
+  }
+}
+
+@media screen and (min-width: 1920px) {
+  .start-ramka-ul-lap {
+    display: flex;
+    padding-top: 41px;
+  }
+}
+
+@media screen and (min-width: 1920px) {
+  .start-ramka-li-lap-a {
+    padding-left: 71px;
+  }
+}
+@media screen and (min-width: 1920px) {
+  .start-ramka-li-lap-b {
+    padding-left: 198px;
+  }
+}
+@media screen and (min-width: 1920px) {
+  .start-ramka-li-lap-c {
+    padding-left: 198px;
+  }
+}
+
+@media screen and (min-width: 1920px) {
+  .start-ramka-num-lap {
+    color: #dd2242;
+  }
+}
+
+@media screen and (min-width: 1920px) {
+  .start-ramka-zag-lap {
+    padding-top: 14px;
+    color: #ffffff;
+    font-family: Roboto;
+  }
+}
+
+@media screen and (min-width: 1920px) {
+  .start-ramka-num-fir {
+    color: #ffffff;
+  }
+}
+
+@media screen and (min-width: 1920px) {
+  .start-ramka-p-lap {
+    color: #939393;
+  }
+}
+
+@media screen and (min-width: 1920px) {
+  .ramka-video-lap {
+    width: 417px;
+    height: 254px;
+    position: absolute;
+    top: 0px;
+    right: -415px;
+  }
+}

@@ -1,0 +1,36 @@
+@media screen and (max-width: 375px) {
+  .footer-svg-half {
+    border-radius: 100%;
+    background-color: #dd2242;
+    height: 104px;
+    width: 104px;
+    text-align: center;
+    font-family: DM Sans;
+    color: white;
+    position: absolute;
+    bottom: 660px;
+    font-size: 26.41px;
+    padding-top: 12px;
+    left: 160px;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .footer-svg-first {
+    padding-left: 100px;
+    padding-top: 146px;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .footer-ul-svg {
+    display: flex;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .footer-svgs-first {
+    width: 10px;
+    height: 19px;
+  }
+}

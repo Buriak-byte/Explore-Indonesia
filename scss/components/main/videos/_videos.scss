@@ -1,0 +1,74 @@
+@media screen and (max-width: 375px) {
+  .videos {
+    background-image: url(../../../../png/backgroung-forth.png);
+  }
+}
+@media screen and (max-width: 375px) {
+  .videos-first-video {
+    padding-left: 30px;
+    padding-top: 70px;
+  }
+}
+@media screen and (max-width: 375px) {
+  .videos-second-video {
+    padding-left: 30px;
+    padding-top: 40px;
+  }
+}
+@media screen and (max-width: 375px) {
+  .videos-forth-video {
+    padding-left: 30px;
+    padding-top: 40px;
+  }
+}
+
+@media screen and (min-width: 1920px) {
+  .videos-lap {
+    background-image: url(../../../../png/background-sixth-lap.png);
+    background-color: rgba(0, 0, 0, 0.9);
+    background-repeat: no-repeat;
+    height: 1476px;
+  }
+}
+
+@media screen and (min-width: 1920px) {
+  .videos-first-video-lap {
+    width: 1056px;
+    height: 594px;
+    margin-left: 442px;
+    margin-top: 67.2px;
+  }
+}
+
+@media screen and (min-width: 1920px) {
+  .video-ps-lap {
+    display: flex;
+  }
+}
+
+@media screen and (min-width: 1920px) {
+  .videos-second-video-lap {
+    position: absolute;
+    top: 6725px;
+    left: 360px;
+  }
+}
+
+@media screen and (min-width: 1920px) {
+  .video-minizag-lap {
+    position: absolute;
+    top: 6725px;
+    left: 710px;
+    color: white;
+    font-size: 25px;
+    font-family: DM Sans;
+  }
+}
+
+@media screen and (min-width: 1920px) {
+  .video-ps-lap {
+    position: absolute;
+    top: 6800px;
+    left: 710px;
+  }
+}

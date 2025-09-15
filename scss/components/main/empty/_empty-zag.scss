@@ -4,3 +4,24 @@
     margin-top: 25px;
   }
 }
+
+@media screen and (min-width: 1920px) {
+  .empty-ul-lap {
+    color: #000000;
+    text-align: center;
+    font-family: DM Sans;
+    font-size: 50px;
+    font-weight: bold;
+  }
+}
+@media screen and (max-width: 375px) {
+  .empty-ul-lap {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 1920px) {
+  .empty-ul-lap- {
+    display: none;
+  }
+}

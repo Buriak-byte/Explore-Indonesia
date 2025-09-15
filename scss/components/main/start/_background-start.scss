@@ -4,3 +4,15 @@
   padding-top: 153px;
   height: 1104px;
 }
+
+.start {
+  background-image: url(../../../png/background-first.png);
+  background-repeat: no-repeat;
+  margin-top: none;
+}
+@media screen and (min-width: 1920px) {
+  .start-lap {
+    background-image: url(../../../../png/background-first-lap.png);
+    background-repeat: no-repeat;
+  }
+}

@@ -1,0 +1,23 @@
+@media screen and (max-width: 375px) {
+  .gallery-ul {
+    color: #939393;
+    text-align: center;
+    padding-top: 20px;
+    font-family: Roboto;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .gallery-mega-ul {
+    display: flex;
+    padding-top: 30px;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .gallery-img-third {
+    display: flex;
+    padding-top: 12px;
+    margin-left: 30px;
+  }
+}

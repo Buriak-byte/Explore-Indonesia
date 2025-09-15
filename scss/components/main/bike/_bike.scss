@@ -1,0 +1,24 @@
+@media screen and (max-width: 375px) {
+  .bike {
+    background-color: #dce8f2;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .bike-zag {
+    color: black;
+    font-family: Roboto;
+    padding-top: 29px;
+    text-align: center;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .bike-video {
+    margin-left: 30px;
+    margin-top: 32px;
+  }
+}
+.bike-invisible {
+  height: 100px;
+}

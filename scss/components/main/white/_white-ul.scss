@@ -1,0 +1,49 @@
+@media screen and (max-width: 375px) {
+  .white-ul {
+    text-align: center;
+    color: black;
+    font-family: Roboto;
+    margin-bottom: 60px;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .white-ps {
+    text-align: center;
+    color: rgb(151, 139, 139);
+    margin-top: 36px;
+    font-family: Roboto;
+  }
+}
+
+@media screen and (min-width: 1920px) {
+  .white-ul-lap {
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    font-family: DM Sans;
+    padding-top: 249px;
+  }
+}
+
+@media screen and (min-width: 1920px) {
+  .white-ps-lap {
+    text-align: center;
+    color: #939393;
+    margin-top: 32px;
+    font-size: 24px;
+  }
+}
+
+@media screen and (min-width: 1920px) {
+  .white-button {
+    color: white;
+    background-color: #dd2242;
+    border-radius: 32px;
+    border-style: none;
+    margin-top: 40px;
+    margin-left: 865px;
+    width: 210px;
+    height: 64px;
+  }
+}

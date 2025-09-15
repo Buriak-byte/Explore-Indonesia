@@ -4,3 +4,10 @@
     background-repeat: no-repeat;
   }
 }
+@media screen and (min-width: 1920px) {
+  .empty-lap {
+    background-image: url(../../../../png/background-fivth-lap.png);
+    background-repeat: no-repeat;
+    height: 2207px;
+  }
+}

@@ -16,3 +16,28 @@
     border-radius: 10px;
   }
 }
+
+@media screen and (min-width: 1920px) {
+  .ad-first-img-lap {
+    width: 630.34px;
+    height: 460px;
+    margin-top: 207px;
+    margin-left: 341px;
+  }
+}
+
+// @media screen and (min-width: 1920px) {
+//   .ad-shadow-first-lap {
+//     background-image: url(../../../../png/shadow-first-lap.png);
+//   }
+// }
+
+@media screen and (min-width: 1920px) {
+  .ad-second-img-lap {
+    position: absolute;
+    top: 2000px;
+    right: 283.69px;
+    width: 630.34px;
+    height: 460px;
+  }
+}

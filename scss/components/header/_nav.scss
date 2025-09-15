@@ -8,3 +8,34 @@
     top: 10px;
   }
 }
+@media screen and (max-width: 375px) {
+  .header-nav-lap {
+    display: none;
+  }
+}
+@media screen and (min-width: 1920px) {
+  .header-nav-lap {
+    display: flex;
+
+    margin-top: 38px;
+  }
+}
+
+@media screen and (min-width: 1920px) {
+  .header-nav-lap-sec {
+    position: absolute;
+
+    left: 1705px;
+    display: flex;
+  }
+}
+
+@media screen and (min-width: 1920px) {
+  .header-nav-lap-item {
+    color: white;
+    font-family: DM Sans;
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 36px;
+  }
+}
