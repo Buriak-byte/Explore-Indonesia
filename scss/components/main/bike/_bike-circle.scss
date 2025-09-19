@@ -28,3 +28,53 @@
     margin-top: 32px;
   }
 }
+
+@media screen and (min-width: 1920px) {
+  .bike-circle-first-lap {
+    border-radius: 100%;
+    background-color: #dd2242;
+    height: 58.69px;
+    width: 58.69px;
+    text-align: center;
+    font-family: DM Sans;
+    color: white;
+    font-size: 26.41px;
+    padding-top: 12px;
+    margin-left: 386px;
+    margin-top: 44.31px;
+  }
+}
+@media screen and (min-width: 1920px) {
+  .bike-circle-third-lap {
+    border-radius: 100%;
+    background-color: #dd2242;
+    height: 56px;
+    width: 56px;
+    text-align: center;
+    font-family: DM Sans;
+    color: white;
+    font-size: 26.41px;
+    padding-top: 12px;
+    margin-left: 386px;
+    margin-top: 88.03px;
+  }
+}
+
+@media screen and (min-width: 1920px) {
+
+    .bike-circle-third{
+        border-radius: 100%;
+        background-color: #dd2242;
+        height: 56px;
+        width: 56px;
+        text-align: center;
+        font-family: DM Sans;
+        color: white;
+        font-size: 26.41px;
+        padding-top: 12px;
+        margin-left: 386px;
+        margin-top: 88.03px;
+
+    }
+
+}

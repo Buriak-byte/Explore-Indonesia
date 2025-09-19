@@ -17,3 +17,50 @@
     padding-left: 13px;
   }
 }
+
+@media screen and (min-width: 1920px) {
+  .gallery-img-megaul {
+    display: flex;
+  }
+}
+
+@media screen and (min-width: 1920px) {
+  .gallery-size-fir {
+    width: 370px;
+    height: 530px;
+  }
+}
+
+@media screen and (min-width: 1920px) {
+  .gallery-imgs-first {
+    margin-left: 378px;
+    margin-top: 71px;
+  }
+}
+
+@media screen and (min-width: 1920px) {
+  .gallery-imgs-second {
+    margin-left: 30px;
+    margin-top: 71px;
+  }
+}
+@media screen and (min-width: 1920px) {
+  .gallery-imgs-third {
+    margin-left: 30px;
+    margin-top: 71px;
+  }
+}
+@media screen and (min-width: 1920px) {
+.gallery-size-sec{width: 370px;
+    height: 210px;
+}
+}
+
+@media screen and (min-width: 1920px) {
+    .gallery-size-thi{
+
+width: 370px;
+height: 370px;
+
+    }
+}

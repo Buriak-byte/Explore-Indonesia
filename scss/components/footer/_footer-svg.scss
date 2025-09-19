@@ -14,6 +14,23 @@
     left: 160px;
   }
 }
+// @media screen and (min-width: 1920px) {
+//     .footer-half {
+//       border-radius: 100%;
+//       background-color: #dd2242;
+//       height: 104px;
+//       width: 104px;
+//       text-align: center;
+//       font-family: DM Sans;
+//       color: white;
+//       padding-bottom: 50px;
+    
+      
+//       font-size: 26.41px;
+//       padding-top: 12px;
+//       left: 160px;
+//     }
+//   }
 
 @media screen and (max-width: 375px) {
   .footer-svg-first {
@@ -33,4 +50,40 @@
     width: 10px;
     height: 19px;
   }
+}
+
+@media screen and (min-width: 1920px) {
+
+    .pablito{
+padding-top: 39px;
+padding-left: 70px;
+
+
+    }
+
+}
+
+@media screen and (min-width: 1920px) {
+.footer-ul-sec-lap-svg-fir{
+width: 24px;
+height: 24px;
+
+}
+
+}
+@media screen and (min-width: 1920px) {
+.footer-ul-sec-lap-svg-sec{
+width: 24px;
+height: 24px;
+
+}
+
+}
+@media screen and (min-width: 1920px) {
+.footer-ul-sec-lap-svg-thi{
+width: 24px;
+height: 24px;
+
+}
+
 }

@@ -18,7 +18,31 @@
     margin-left: 30px;
     margin-top: 32px;
   }
+
+  
 }
-.bike-invisible {
-  height: 100px;
+
+
+@media screen and (max-width: 375px) {
+
+    .bike-invisible {
+        height: 100px;
+      }
 }
+
+
+@media screen and (min-width: 1920px) {
+  .bike-lap {
+    background-color: #dce8f2;
+    height: 1380px;
+  }
+}
+
+// @media screen and (min-width: 1920px) {
+//     .bike-invisible-lap{
+
+// height: 65px;
+
+//     }
+
+// }

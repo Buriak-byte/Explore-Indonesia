@@ -21,3 +21,29 @@
     margin-left: 30px;
   }
 }
+
+@media screen and (min-width: 1920px) {
+  .gallery-p-lap {
+    text-align: center;
+    color: black;
+    margin-top: 177px;
+    font-size: 75px;
+  }
+}
+
+@media screen and (min-width: 1920px) {
+  .gallery-ul-lap {
+    text-align: center;
+    color: #939393;
+    font-size: 21px;
+    font-family: DM Sans;
+    line-height: 150%;
+    margin-top: 20px;
+  }
+}
+
+@media screen and (min-width: 1920px) {
+  .gallery-mega-ul-lap {
+    display: flex;
+  }
+}

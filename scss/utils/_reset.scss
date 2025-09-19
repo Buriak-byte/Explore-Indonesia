@@ -5,3 +5,9 @@
     list-style: none;
     text-decoration: none;
 }
+
+@media screen and (min-width: 375px){
+  .none-lap{
+display: none;
+}  
+}
